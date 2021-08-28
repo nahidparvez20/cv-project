@@ -12,9 +12,7 @@ body{
     margin: 0 auto;
     padding: 20px;
 }
-header{
 
-}
 .profile-image{
     width: 100px;
     height: 120px;
@@ -44,4 +42,34 @@ h1,h2,h3,h4,h5,h6{
 }
 .div-clear{
     clear: both;
+}
+hr{
+    border: solid black 3px;
+    margin: 20px auto;
+    width: 100%;
+    border-bottom: none;
+}
+/*------------------
+Personal Section start
+----------------------*/
+
+#personal-section{
+
+}
+.content{
+    margin-bottom: 20px;
+}
+.left-div{
+    width: 35%;
+    float: left;
+}
+.right-div{
+    width: 65%;
+    float: left;
+}
+.common-hr{
+    border: solid black 1px;
+    margin: 20 auto;
+    width: 100%;
+    border-bottom: none;
 }
