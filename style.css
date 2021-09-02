@@ -73,3 +73,34 @@ Personal Section start
     width: 100%;
     border-bottom: none;
 }
+/*------------------
+Education Section start
+----------------------*/
+
+.edu-template-left{
+    float: left;
+    width: 45%;
+
+}
+.edu-template-right{
+    float: right;
+    width: 45%;
+
+}
+/*------------------
+Footer Section start
+----------------------*/
+.bottom-container{
+    background-color:#994311;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color: white;
+    margin-top: 20px;
+}
